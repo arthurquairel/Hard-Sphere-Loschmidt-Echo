@@ -1,7 +1,6 @@
 # Time Reversibility and Chaos: Hard Sphere Billiard Simulation
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 This Numerical Simulation project (ESPCI Paris - 2nd Year) explores the limits of time reversibility in a chaotic Hamiltonian system: a 2D gas of hard spheres.
