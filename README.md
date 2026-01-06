@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-This Numerical Simulation project (ESPCI Paris - 2nd Year) explores the limits of time reversibility in a chaotic Hamiltonian system: a 2D gas of hard spheres.
+This Numerical Simulation project (ESPCI Paris - 2nd Year) explores the limits of time reversibility in a chaotic Hamiltonian system: we modeled a billiard system..
 
 By comparing standard floating-point arithmetic (IEEE 754) with **arbitrary precision arithmetic**, we analyze the **Loschmidt Echo** phenomenon and how round-off errors drive the exponential divergence of trajectories.
 
